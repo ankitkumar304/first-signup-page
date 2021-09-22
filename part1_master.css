@@ -1,0 +1,23 @@
+h1{
+  color:purple;
+}
+
+option{
+  color: rgb(255, 0, 0);
+}
+input{
+  color: rgba(255, 0, 0, 0.5);
+}
+body{
+  background-image:
+  url(hgff.jpg);
+  background-color: blue;
+}
+label{
+  color: rgb(255, 7, 0);
+}
+h2{
+  color: green;
+
+
+}
